@@ -1,0 +1,12 @@
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\bin\Debug\MostrarContenido_Directorio.exe.config
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\bin\Debug\MostrarContenido_Directorio.exe
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\bin\Debug\MostrarContenido_Directorio.pdb
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\bin\Debug\MostrarContenido_Directorio.xml
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.Form1.resources
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.Resources.resources
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.vbproj.GenerateResource.Cache
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.vbproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.exe
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.xml
+C:\Users\Administrador\source\repos\MostrarContenido_Directorio\MostrarContenido_Directorio\obj\Debug\MostrarContenido_Directorio.pdb
